@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository :)
+I am a recent M.S. Business Analytics graduate from Notre Dame. I have been in the financial services / trading industry for the first decade of my career. I am looking to pivot to the consulting / cloud industry. I have obtained three AWS certifications (Cloud Practitioner, Solutions Architect Associate, and Big Data Specialty). I have experience writing code and data analysis in R, data visualizations in Tableau, and SQL queries. I am also a bit of a statistics nerd and have a domain expertise in just about anything finance / economics related. I would love to help your team, business, and clients with all of their data, cloud infrastructure, and analtyics needs!
